@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad">20dp</dimen>
+    <dimen name="weight">1</dimen>
+    <dimen name="width">200dp</dimen>
+    <dimen name="height">200dp</dimen>
+    <dimen name="mt">20dp</dimen>
+    <dimen name="t_size">24sp</dimen>
+    <dimen name="title_size">56sp</dimen>
+    <dimen name="marTop">40dp</dimen>
+    <dimen name="btn_width">160dp</dimen>
+    <dimen name="btn_height">64dp</dimen>
+    <dimen name="btn_textSize">16sp</dimen>
+    <dimen name="b_deal_width">200dp</dimen>
+    <dimen name="b_deal_height">72dp</dimen>
+</resources>

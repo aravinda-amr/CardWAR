@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">war card</string>
+    <string name="btn">Deal</string>
+    <string name="p1">Player 1 : 0</string>
+    <string name="p2">Player 2 : 0</string>
+    <string name="war">WAR</string>
+    <string name="highest_score">HighScore\n</string>
+    <string name="replay">Replay</string>
+    <string name="start">FIGHT</string>
+    <string name="backHome">Back to Home</string>
+
+</resources>
